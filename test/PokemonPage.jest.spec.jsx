@@ -26,7 +26,7 @@ const pokemonList = {
     {
       ability: {
         name: 'anticipation',
-        url: 'https://pokeapi.co/api/v2/ability/107/' // eslint-disable-line
+        url: 'https://pokeapi.co/api/v2/ability/107/'
       },
       is_hidden: true,
       slot: 3
